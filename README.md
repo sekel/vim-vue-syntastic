@@ -1,5 +1,7 @@
 # vim-vue-syntastic
 
+### 1\. What?
+
 Support for vue components linting with syntastic and eslint
 
 ### 2\. Dependencies
