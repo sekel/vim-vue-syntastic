@@ -6,9 +6,9 @@ Support for vue components linting with syntastic and eslint
 
 ### 2\. Dependencies
 
-[Syntastic](https://github.com/scrooloose/syntastic)
-[ESlint](http://eslint.org/)
-[vim-vue](https://github.com/posva/vim-vue)
+- [Syntastic](https://github.com/scrooloose/syntastic)
+- [ESlint](http://eslint.org/)
+- [vim-vue](https://github.com/posva/vim-vue)
 
 ### 2.1\. Installing vim-vue-syntastic with Pathogen
 
